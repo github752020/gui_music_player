@@ -1,0 +1,96 @@
+9
+Best of
+Blur
+images/blur.jpg
+3
+Song 2
+music/Blur_01Song_2.mp3
+Girls and Boys
+music/Blur_02Girls_and_Boys.mp3
+Coffee and TV
+music/Blur_03Coffee_and_TV.mp3
+Gorillaz
+Gorillaz
+images/gorillaz.jpg
+5
+Re-Hash
+music/Gorillaz_01Re_Hash.mp3
+Clint Eastwood
+music/Gorillaz_02Clint_Eastwood.mp3
+5/4
+music/Gorillaz_0354.mp3
+Feel Good Inc
+music/Gorillaz_04Feel_Good_Inc.mp3
+19-2000
+music/Gorillaz_0519-2000.mp3
+100 Greatest Jazz
+Various artist
+images/jazz.jpg
+3
+This Masquerade
+music/Jazz_01This_Masquerade.mp3
+Sunrise
+music/Jazz_02Sunrise.mp3
+Fly Me To The Moon
+music/Jazz_03Fly_me_to_the_moon.mp3
+The Four Seasons
+Vivaldi
+images/vivaldi.jpg
+4
+Spring
+music/Vivaldi_01Spring.mp3
+Summer
+music/Vivaldi_02Summer.mp3
+Autumn
+music/Vivaldi_03Autumn.mp3
+Winter
+music/Vivaldi_04Winter.mp3
+Jay Chou
+Jay Chou
+images/jay.jpg
+2
+Jay Chou 01
+music/Jay_Chou01.mp3
+Jay Chou 02
+music/Jay_Chou02.mp3
+Born to do it
+Craig David
+images/craig.jpg
+3
+7 Days
+music/Craig David - 7 Days.mp3
+Insomnia
+music/Craig David - Insomnia.mp3
+Rendezvous
+music/Craig David - Rendezvous.mp3
+Nine Track Mind
+Charlie Puth
+images/puth.png
+4
+Attention
+music/Charlie Puth - Attention.mp3
+Done for me
+music/Charlie Puth - Done For Me.mp3
+How Long
+music/Charlie Puth - How Long.mp3
+We don't talk anymore
+music/Charlie Puth - We Don t Talk Anymore.mp3
+24K Magic
+Bruno Mars
+images/mars.png
+3
+24K Magic
+music/Bruno Mars - 24K Magic.mp3
+Finesse
+music/Bruno Mars - Finesse.mp3
+Uptown funk
+music/Mark Ronson - Uptown Funk ft. Bruno Mars.mp3
+Utada the best
+Utada Hikaru
+images/utada.jpg
+2
+First love
+music/Utada Hikaru - First Love.mp3
+Beautiful world
+music/Utada Hikaru - Beautiful World.mp3
+
